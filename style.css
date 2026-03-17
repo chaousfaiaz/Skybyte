@@ -252,7 +252,7 @@ a{
 
 .home{
     min-height: 100vh;
-    background: url(./image/drone.webp) no-repeat;
+    background: url(./drone.webp) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -134px;
